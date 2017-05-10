@@ -1,0 +1,8 @@
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\bin\Debug\channel.exe
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\bin\Debug\channel.pdb
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\obj\Debug\channel.csprojResolveAssemblyReference.cache
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\obj\Debug\channel.Form1.resources
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\obj\Debug\channel.Properties.Resources.resources
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\obj\Debug\channel.csproj.GenerateResource.Cache
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\obj\Debug\channel.exe
+C:\Users\VIROR\Documents\OpenIOE\example\channel-C#\channel\channel\obj\Debug\channel.pdb

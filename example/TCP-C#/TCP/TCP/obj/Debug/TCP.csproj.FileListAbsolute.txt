@@ -1,0 +1,16 @@
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\bin\Debug\channel.exe
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\bin\Debug\channel.pdb
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\obj\Debug\channel.Form1.resources
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\obj\Debug\channel.Properties.Resources.resources
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\obj\Debug\channel.exe
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\channel\obj\Debug\channel.pdb
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\bin\Debug\TCP 调试助手.exe
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\bin\Debug\TCP 调试助手.pdb
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\obj\Debug\channel.Form1.resources
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\obj\Debug\TCP 调试助手.exe
+C:\Users\VIROR\Documents\OpenIOE\example\TCP-C#\TCP\TCP\obj\Debug\TCP 调试助手.pdb
