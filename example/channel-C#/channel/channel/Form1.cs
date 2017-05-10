@@ -91,7 +91,7 @@ namespace channel
                 else
                 {
                     string stringdata = Encoding.UTF8.GetString(data, 0, recv);//解析接收的数据
-                    showMsg(stringdata + "\r\n");//添加换行
+                    showMsg(stringdata);
                 }
 
               
